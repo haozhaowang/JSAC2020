@@ -39,3 +39,5 @@ Code for Special Issue of JSAC-2020
          * strategies for eta and gamma
              * `get_ps_lr` for defining learning rate eta
              * `get_worker_gamma` is similar to eta
+             
+* The code for ICPP is in `https://github.com/AragornThorongil/ICPP`
