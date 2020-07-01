@@ -1,0 +1,11 @@
+{
+    "initial_lr": 0.0004,
+    "gamma": 0.0006,
+    "quant_range": 1,
+    "all_iterations": 187500,
+    "batch_size": 32,
+    "K": 256,
+    "model_type": "ResNet",
+    "dataset_type": "Cifar10",
+    "output_dir": "./output_LOSP.txt"
+}
