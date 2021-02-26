@@ -1,6 +1,6 @@
 # JSAC2020
 Code for Special Issue of JSAC-2020
-
+ 
 * Guide for libs
      * Python 3.6
       * torch 3.5.0
